@@ -1,0 +1,42 @@
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.exe
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.deps.json
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.runtimeconfig.json
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.runtimeconfig.dev.json
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.dll
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\ref\Курсовая по аисд.dll
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.pdb
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csprojAssemblyReference.cache
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.Authorization.resources
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csproj.GenerateResource.cache
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.AssemblyInfoInputs.cache
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.AssemblyInfo.cs
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csproj.CoreCompileInputs.cache
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.dll
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\ref\Курсовая по аисд.dll
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.pdb
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.genruntimeconfig.cache
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.MeetRoom.resources
+C:\Users\serli\source\repos\Курсовая по аисд\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.Properties.Resources.resources
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.exe
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.deps.json
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.runtimeconfig.json
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.runtimeconfig.dev.json
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.dll
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\ref\Курсовая по аисд.dll
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\bin\Debug\net5.0-windows\Курсовая по аисд.pdb
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csprojAssemblyReference.cache
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.Authorization.resources
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.MeetRoom.resources
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.Properties.Resources.resources
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csproj.GenerateResource.cache
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.AssemblyInfoInputs.cache
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.AssemblyInfo.cs
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.csproj.CoreCompileInputs.cache
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.dll
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\ref\Курсовая по аисд.dll
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.pdb
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая по аисд.genruntimeconfig.cache
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.Bron.resources
+C:\Users\serli\OneDrive\Рабочий стол\Курсовая по аисд Новая\Курсовая по аисд\obj\Debug\net5.0-windows\Курсовая_по_аисд.ChangeForm.resources
